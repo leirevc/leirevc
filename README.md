@@ -4,7 +4,7 @@
 👩‍💻 Information Systems Engineer from Madrid, Spain<br>
 📚 Studied at Technical University of Madrid/Universidad Politécnica de Madrid(UPM)<br>
 💭 Currently learning about data analytics, machine learning and AI<br>
-📋 Experience in Agile projects, functional design, UX and accesibility</p>
+📋 Experience in Agile projects, functional analysis & design, UX and accesibility</p>
 
 </p>
 <h2 align="left"> 💻 Languages and Tools:</h3>
