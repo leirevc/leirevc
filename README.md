@@ -2,7 +2,7 @@
 <p alignn="left">
 <h2>💫 About Me: </h2>
 👩‍💻 Information Systems Engineer from Madrid, Spain<br>
-📚 Studied at Technical University from Madrid (UPM)<br>
+📚 Studied at Technical University of Madrid/Universidad Politécnica de Madrid(UPM)<br>
 💭 Currently learning about data analytics, machine learning and AI<br>
 📋 Experience in Agile projects, functional design, UX and accesibility</p>
 
